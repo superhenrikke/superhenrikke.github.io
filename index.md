@@ -16,9 +16,13 @@ Brains, yoga, though they have not been merged yet. I do experimental research o
 Will appear.
 
 1 year Mathematical Studies at NTNU
+
 5 year MSc Mechanical Engineering at NTNU (during which 1 year exchange at DTU)
+
 The Norwegian School of Entrepreneurship in collaboration with UC Berkeley
+
 me310 at Stanford
+
 ongoing phd at NTNU
 
 
