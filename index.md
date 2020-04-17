@@ -30,4 +30,5 @@ ongoing phd at NTNU
 > "The best writing is rewriting."
 > E. B. White
 
-
+> "However little television you watch, watch less." 
+> David McCullough
