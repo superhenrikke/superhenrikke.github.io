@@ -27,8 +27,7 @@ ongoing phd at NTNU
 
 ## Quotes
 
-	"The best writing is rewriting."
-
-- E. B. White
+> "The best writing is rewriting."
+> E. B. White
 
 
