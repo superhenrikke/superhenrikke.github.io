@@ -1,6 +1,7 @@
 # Publications
 
-## Journal papers
+## PEER REVIEWED JOURNAL ARTICLES
+
 | year | citation |
 |---|---|
 |2021 | Dybvik, H., Løland, M., Gerstenberg, A., Slåttsveen, K. B., & Steinert, M. A low-cost predictive display for teleoperation: Investigating effects on human performance and workload. International Journal of Human-Computer Studies, 145, 102536.|
@@ -8,6 +9,7 @@
 
 
 ## Conference papers
+
 Dybvik, H., Veitch, E., & Steinert, M. (2020, May). EXPLORING CHALLENGES WITH DESIGNING AND DEVELOPING SHORE CONTROL CENTERS (SCC) FOR AUTONOMOUS SHIPS. In Proceedings of the Design Society: DESIGN Conference (Vol. 1, pp. 847-856). Cambridge University Press.
 
 Erichsen, C. K., Dybvik, H., & Steinert, M. (2020). Integration of low-cost, dry-comb EEG-electrodes with a standard electrode cap for multimodal signal acquisition during human experiments. DS 101: Proceedings of NordDesign 2020, Lyngby, Denmark, 12th-14th August 2020, 1-12.
