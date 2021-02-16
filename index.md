@@ -2,7 +2,7 @@
 
 
 ### Intrests
-Brains, yoga, though they have not been merged yet. I do experimental research on humans even thought I'm a mechanical engineer. The humans tend to somewhat interact with machines, important to mention. I also like books and semi-heavy weights. 
+Brains, yoga, though they have not been merged yet. I do experimental research on humans even thought I'm a mechanical engineer. The humans tend to somewhat interact with machines, important to mention. I also like books and semi-heavy weights. I like experimenting with wearable physiology sensors, that be ECG, GSR and neuroimaging modalities fNIRS and EEG. In stu studies. 
 
 
 ### CV
