@@ -2,7 +2,8 @@
 
 ## PEER REVIEWED JOURNAL ARTICLES
 
-Dybvik, H., Løland, M., Gerstenberg, A., Slåttsveen, K. B., & Steinert, M. A low-cost predictive display for teleoperation: Investigating effects on human performance and workload. International Journal of Human-Computer Studies, 145, 102536.|
+Dybvik, H., Løland, M., Gerstenberg, A., Slåttsveen, K. B., & Steinert, M. A low-cost predictive display for teleoperation: Investigating effects on human performance and workload. International Journal of Human-Computer Studies, 145, 102536.
+
 Wulvik, A. S., Dybvik, H., & Steinert, M. (2019). Investigating the relationship between mental state (workload and affect) and physiology in a control room setting (ship bridge simulator). Cognition, Technology & Work, 1-14.
 
 
