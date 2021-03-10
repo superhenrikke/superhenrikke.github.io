@@ -19,5 +19,7 @@ Dahle, Y., Dybvik, H., & Steinert, M. (2019, June). A dynamic and a static appro
 
 Dybvik, H., Erichsen, J. A. B., Steinert, M., & Welo, T. (2018). Evaluating continuous improvement efforts in new product development. [In ISPIM Conference Proceedings (pp. 1-14)](https://www.researchgate.net/profile/Henrikke-Dybvik/publication/329059241_Evaluating_Continuous_Improvement_Efforts_in_New_Product_Development/links/5bf3c9f6299bf1124fdfa337/Evaluating-Continuous-Improvement-Efforts-in-New-Product-Development.pdf). The International Society for Professional Innovation Management (ISPIM).
 
-
 Dybvik, H., Wulvik, A., & Steinert, M. (2018). Steering a ship-investigating affective state and workload in ship simulations. [In DS92: Proceedings of the DESIGN 2018 15th international design conference (pp. 2003-2014)](https://doi.org/10.21278/idc.2018.0459).
+
+## Master Thesis
+Dybvik, H. (2018). An exploration of mixed methods, researching business model phenomena-Investigating the business model phenomena through literature, in-depth case study, statistical testing and user experiments [(Master's thesis, NTNU)](http://hdl.handle.net/11250/2573227).
