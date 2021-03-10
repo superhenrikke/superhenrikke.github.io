@@ -11,6 +11,6 @@ Will appear.
 
 The Norwegian School of Entrepreneurship in collaboration with UC Berkeley
 
-me310 at Stanford
+me310 at Stanford University
 
 ongoing PhD at [TrollLABS](https://www.ntnu.edu/mtp/trolllab), NTNU
