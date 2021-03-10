@@ -2,5 +2,5 @@
 
 I like experimentation 
 Human-Machine Interaction
-Engineering design
-Neuroimaging 
+Engineering design and engineering design cognition
+Neuroimaging and physiology sensors
