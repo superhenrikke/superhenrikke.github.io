@@ -5,6 +5,7 @@
 Brains, yoga, also together. I do experimental research on humans even thought I'm a mechanical engineer. The humans tend to somewhat interact with machines, important to mention. I also like books and semi-heavy weights. I like experimenting with wearable physiology sensors, that be ECG, GSR and neuroimaging modalities fNIRS and EEG. In stu studies. 
 
 ````
+
 import argparse
 import time
 import numpy as np
@@ -75,6 +76,7 @@ while True:
 #When using the Python / LSL sending program, you must put the Cyton into either 'digital' or 'analog' (Aux mode), via a serial port SDK command:
 #https://docs.openbci.com/docs/02Cyton/CytonSDK#board-mode
 #The default "board mode", is to send the Accelerometer data at reduced rate.
+
 ````
 
 
