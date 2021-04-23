@@ -11,4 +11,5 @@
 - "What Do You Care What Other People Think?": Further Adventures of a Curious Character by Ralph Leighton with the authorization of Richard Feynman
 - ADHD og samliv av Sverre Hoem
 - Klok på følelser. Det følelsene prøver å fortelle deg. Av Jan Reidar Stiegler, Aksel Inge Sinding, Leslie Greenberg.
+- Algorithms to live by - the computer science of human decisions by Brian Christian, Tom Griffiths 
 
