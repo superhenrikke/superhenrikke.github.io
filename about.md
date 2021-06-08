@@ -1,6 +1,8 @@
 # About
 
-Hi! I'm Henrikke Dybvik. I find research extremely interesting. I'm currently working on my PhD at [TrollLABs](https://www.ntnu.edu/mtp/trolllabs) at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/)
+Hi! I'm Henrikke Dybvik. I find research extremely interesting. I'm currently working on my PhD at [TrollLABs](https://www.ntnu.edu/mtp/trolllabs) at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/). 
+
+My research centers around experiments and usually includes physiology sensors. 
 
 ### CV
 Will appear.
