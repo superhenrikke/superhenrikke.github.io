@@ -14,4 +14,9 @@
 - Algorithms to live by - the computer science of human decisions by Brian Christian, Tom Griffiths 
 - The Life-Changing Magic of Not Giving a Fuck by Sarah Knight (Drit i det!) Read in Norwegian. 
 - En slitesterk livsstil av Karsten Isachsen (In Norwegain)
+- Frankenstein
+- Alice in wonderland
+- Omgitt av idioter (ikke les denne)
+- Spis deg fri
+- 
 
