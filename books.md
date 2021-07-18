@@ -20,5 +20,6 @@
 - (Re-read) The Body: A Guide for Occupants by Bill Bryson (Kroppen - en guide for deg som bor i den) Read in Norwegian.
 - Einstein's Wife: The Real Story of Mileva Einstein-Mari? by Allen Esterson
 - Alice's Adventures in Wonderland by Lewis Carroll
+- Evening Primrose by Kopano Matlwa (Menssmerter). Read in Norwegian.
 - The Sun Sister by Lucinda Riley (Solsøsteren). Read in Norwegian.
 - The 4-Hour Workweek, Expanded and Updated by Timothy Ferriss
