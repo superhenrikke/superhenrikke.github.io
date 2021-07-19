@@ -23,3 +23,4 @@
 - Evening Primrose by Kopano Matlwa (Menssmerter). Read in Norwegian.
 - The Sun Sister by Lucinda Riley (Solsøsteren). Read in Norwegian.
 - The 4-Hour Workweek, Expanded and Updated by Timothy Ferriss
+- Til de voksne av Linn Skåber (In Norwegian)
