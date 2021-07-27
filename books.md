@@ -24,3 +24,4 @@
 - The Sun Sister by Lucinda Riley (Solsøsteren). Read in Norwegian.
 - The 4-Hour Workweek, Expanded and Updated by Timothy Ferriss
 - Til de voksne av Linn Skåber (In Norwegian)
+- The Missing Sister by Lucinda Riley (Den savnede søsteren). Read in Norwegian.
