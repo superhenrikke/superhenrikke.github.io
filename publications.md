@@ -11,9 +11,9 @@
 
 ## Conference papers
 
-**Dybvik, H., Kuster Erichsen, C., Steinert, M. (2021)** ‘Description of a Wearable Electroencephalography + Functional Near-Infrared Spectroscopy (EEG+FNIRS) for In-Situ Experiments on Design Cognition’, in Proceedings of the International Conference on Engineering Design (ICED21), Gothenburg, Sweden, 16-20 August 2021. [DOI:10.1017/pds.2021.94](DOI:10.1017/pds.2021.94)
+**Dybvik, H., Kuster Erichsen, C., Steinert, M. (2021)** ‘Description of a Wearable Electroencephalography + Functional Near-Infrared Spectroscopy (EEG+FNIRS) for In-Situ Experiments on Design Cognition’, in Proceedings of the International Conference on Engineering Design (ICED21), Gothenburg, Sweden, 16-20 August 2021. [DOI:10.1017/pds.2021.94](https://DOI:10.1017/pds.2021.94)
 
-**Dybvik, H., Erichsen, C. K., Steinert, M. (2021)** ‘Demonstrating the Feasibility of Multimodal Neuroimaging Data Capture with a Wearable Electoencephalography + Functional Near-Infrared Spectroscopy (EEG+FNIRS) in Situ’, in Proceedings of the International Conference on Engineering Design (ICED21), Gothenburg, Sweden, 16-20 August 2021. [DOI:10.1017/pds.2021.90](DOI:10.1017/pds.2021.90)
+**Dybvik, H., Erichsen, C. K., Steinert, M. (2021)** ‘Demonstrating the Feasibility of Multimodal Neuroimaging Data Capture with a Wearable Electoencephalography + Functional Near-Infrared Spectroscopy (EEG+FNIRS) in Situ’, in Proceedings of the International Conference on Engineering Design (ICED21), Gothenburg, Sweden, 16-20 August 2021. [DOI:10.1017/pds.2021.90](https://DOI:10.1017/pds.2021.90)
 
 **Dybvik, H., Veitch, E., & Steinert, M. (2020, May).** EXPLORING CHALLENGES WITH DESIGNING AND DEVELOPING SHORE CONTROL CENTERS (SCC) FOR AUTONOMOUS SHIPS. [In Proceedings of the Design Society: DESIGN Conference (Vol. 1, pp. 847-856)](https://doi.org/10.1017/dsd.2020.131). Cambridge University Press.
 
