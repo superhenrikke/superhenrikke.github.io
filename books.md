@@ -25,3 +25,4 @@
 - The 4-Hour Workweek, Expanded and Updated by Timothy Ferriss
 - Til de voksne av Linn Skåber (In Norwegian)
 - The Missing Sister by Lucinda Riley (Den savnede søsteren). Read in Norwegian.
+-  Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology by Cory O'Brien
