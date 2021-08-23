@@ -29,3 +29,10 @@
 
 ## Master Thesis
 **Dybvik, H. (2018).** An exploration of mixed methods, researching business model phenomena-Investigating the business model phenomena through literature, in-depth case study, statistical testing and user experiments [(Master's thesis, NTNU)](http://hdl.handle.net/11250/2573227).
+
+
+
+# Multimedia
+
+## Conference presentations (recorded)
+- ICED2021 https://www.youtube.com/watch?v=_fsINtQN5hY
