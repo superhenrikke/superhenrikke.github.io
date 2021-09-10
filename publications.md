@@ -2,6 +2,8 @@
 
 ## PEER REVIEWED JOURNAL ARTICLES
 
+**Rørvik, S B., Auflem, M., Dybvik, H., & Steinert, M. (2021, Provisionally accepted).** Perception by Palpation: Development and Testing of a Haptic Ferrogranular Jamming Surface. doi: 10.3389/frobt.2021.745234 
+
 **Dybvik, H., & Steinert, M. (2021).** Real-World fNIRS Brain Activity Measurements during Ashtanga Vinyasa Yoga. [Brain Sciences](https://doi.org/10.3390/brainsci11060742), 11(6), 742.
 
 **Dybvik, H., Løland, M., Gerstenberg, A., Slåttsveen, K. B., & Steinert, M. (2021).** A low-cost predictive display for teleoperation: Investigating effects on human performance and workload. [International Journal of Human-Computer Studies](https://doi.org/10.1016/j.ijhcs.2020.102536), 145, 102536.
