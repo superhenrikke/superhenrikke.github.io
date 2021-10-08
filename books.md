@@ -16,7 +16,7 @@
 - En slitesterk livsstil av Karsten Isachsen (In Norwegain)
 - Frankenstein; or, The Modern Prometheus by Mary W. Shelley. 
 - Omgitt av idioter by Thomas Erikson (Norwegain translation. Don't read this. Instead, read the [criticism](https://en.wikipedia.org/wiki/DISC_assessment). It has no scientific foundation)
--  Spis deg fri - med Bright line eating by Susan Peirce Thompson. (Norwegain translation) 
+- Spis deg fri - med Bright line eating by Susan Peirce Thompson. (Norwegain translation) 
 - (Re-read) The Body: A Guide for Occupants by Bill Bryson (Kroppen - en guide for deg som bor i den) Read in Norwegian.
 - Einstein's Wife: The Real Story of Mileva Einstein-Mari? by Allen Esterson
 - Alice's Adventures in Wonderland by Lewis Carroll
@@ -26,3 +26,4 @@
 - Til de voksne av Linn Skåber (In Norwegian)
 - The Missing Sister by Lucinda Riley (Den savnede søsteren). Read in Norwegian.
 - Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology by Cory O'Brien
+- The Girl with the Lower Back Tattoo by Amy Schumer
