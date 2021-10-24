@@ -27,3 +27,4 @@
 - The Missing Sister by Lucinda Riley (Den savnede søsteren). Read in Norwegian.
 - Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology by Cory O'Brien
 - The Girl with the Lower Back Tattoo by Amy Schumer
+- Pride and Prejudice by Jane Austen
