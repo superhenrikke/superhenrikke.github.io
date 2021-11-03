@@ -28,3 +28,6 @@
 - Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology by Cory O'Brien
 - The Girl with the Lower Back Tattoo by Amy Schumer
 - Pride and Prejudice by Jane Austen
+- Thor Heyerdahl: Mannen og verden av Ragnar Kvam Jr. (In Norwegian)
+- Brown cheese please. Norway inside out from the outside in by Jenny K. Blake.
+
