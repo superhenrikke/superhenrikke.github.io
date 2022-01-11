@@ -30,7 +30,12 @@
 - Pride and Prejudice by Jane Austen
 - Thor Heyerdahl: Mannen og verden av Ragnar Kvam Jr. (In Norwegian)
 - Brown cheese please. Norway inside out from the outside in by Jenny K. Blake.
-City of girls Elisabeth Gilbert (reread)
-Harry potter 1 og 2 på norsk
-Maja lunde søsøsteren
-Til ungdommen Linn Skåber
+- City of Girls by Elisabeth Gilbert. (reread)
+- Harry Potter and the Philosopher's Stone (Harry Potter og de vises stein) by J.K. Rowling. (Norwegian translation)
+- Harry Potter and the Chamber of Secrets (Harry Potter og mysteriekammeret) by J.K. Rowling. (Norwegian translation)
+- Snøsøsteren av Maja Lunde, illustrert av Lisa Aisato
+- Til Ungdommen av Linn Skåber, illustrert av Lisa Aisato
+
+### 2022:
+- Kongen forteller av Harald Stanghelle (In Norwegian, started reading it in 2021)
+- Analfabeten som kunne regne av Jonas Jonasson (Norwegian translation, started reading it in 2021). 
