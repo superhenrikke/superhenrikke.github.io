@@ -39,3 +39,5 @@
 ### 2022:
 - Kongen forteller av Harald Stanghelle (In Norwegian, started reading it in 2021)
 - Analfabeten som kunne regne av Jonas Jonasson (Norwegian translation, started reading it in 2021). 
+- I think you'll find it's a bit more complicated than that by Ben Goldacre (Started reading it in 2021).
+
