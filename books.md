@@ -44,5 +44,6 @@
 - Til oss fra de eldste av Linn Skåber, illustrert av Lisa Aisato
 - (Re-read) Spis deg fri - med Bright line eating by Susan Peirce Thompson. (Norwegain translation) 
 - Why some like it hot - Food, genes, and cultural diversity by Gary Paul Nabhan
+- Darknet: A Beginner's Guide to Staying Anonymous Online by Lance Henderson
 
 
