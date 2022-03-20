@@ -42,5 +42,7 @@
 - I think you'll find it's a bit more complicated than that by Ben Goldacre (Started reading it in 2021).
 - Harry Potter and the Prisoner of Azkaban (Harry Potter og fangen fra Azkaban) by J.K. Rowling. (Norwegian translation)
 - Til oss fra de eldste av Linn Skåber, illustrert av Lisa Aisato
+- (Re-read) Spis deg fri - med Bright line eating by Susan Peirce Thompson. (Norwegain translation) 
+- Why some like it hot - Food, genes, and cultural diversity by Gary Paul Nabhan
 
 
