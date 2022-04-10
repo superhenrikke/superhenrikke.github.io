@@ -42,8 +42,11 @@
 - I think you'll find it's a bit more complicated than that by Ben Goldacre (Started reading it in 2021).
 - Harry Potter and the Prisoner of Azkaban (Harry Potter og fangen fra Azkaban) by J.K. Rowling. (Norwegian translation)
 - Til oss fra de eldste av Linn Skåber, illustrert av Lisa Aisato
+- Harry Potter and the Goblet of Fire (Harry Potter og Ildbegeret) by J.K. Rowling. (Norwegian translation)
 - (Re-read) Spis deg fri - med Bright line eating by Susan Peirce Thompson. (Norwegain translation) 
 - Why some like it hot - Food, genes, and cultural diversity by Gary Paul Nabhan
 - Darknet: A Beginner's Guide to Staying Anonymous Online by Lance Henderson
+- Twenty Thousand Leagues under the Sea by Jules Verne
+- Harry Potter and the Order of the Phoenix (Harry Potter og Føniksordenen) by J.K. Rowling. (Norwegian translation) 
 
 
