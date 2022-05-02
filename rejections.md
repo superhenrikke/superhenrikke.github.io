@@ -8,3 +8,4 @@ I have probably forgotten about some rejections, and so this list is not complet
 - DESIGN2018
 - HICSS (2020 I think)
 - Frontiers in Human Neuroscience
+- Design Studies
