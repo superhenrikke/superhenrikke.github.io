@@ -179,14 +179,7 @@ raw(1).probe.defaultdrawfcn='3D mesh';  % now it will draw in 3D on the atlas he
 raw(1).probe.draw()
 
 
-%% Preproccesing  
-j = nirs.modules.Resample();
-j.Fs = 1; 
-j = nirs.modules.OpticalDensity( j );
-j = nirs.modules.BeerLambertLaw( j );
-hb = j.run( raw_dataset );
 
-hb.draw()
 %% Preproccesing and first level stats
 job = nirs.modules.default_modules.single_subject;
 
@@ -197,6 +190,7 @@ disp(List);
 % to make this run faster
 % List{9}to view GLM
 List{4}.Fs=1;  % change the sample rate of the Resample module
+List{9}.verbose = true;
 % note the GLM runs like O(n^2) so this will be ~100x faster to run but at the
 % loss of statistical power (ok for this demo, but I usually run at 5Hz for real studies).
 job = nirs.modules.listToPipeline(List);  % convert back to pipeline
@@ -217,8 +211,7 @@ SubjStats(1).draw('tstat', [-10 10], 'q <0.05') % q is p-value corrected. We sho
 
 % generates a table with leverage for subj, condition & channel
 groupLeverage = nirs.util.grouplevelleveragestats(SubjStats);
-nirs.util.grouplevelleveragestats()
-head(groupLeverage)
+
 
 %TODO: Understand this, in particular which variable(s) to base
 % exclusion criteria on
@@ -357,7 +350,7 @@ probe.optodes=[probe.optodes; fid];
 % try from here
 
 % Use the default head size
-probe1020=nirs.util.registerprobe1020(probe, );
+probe1020=nirs.util.registerprobe1020(probe);
 
 % You can also customize this to a particular head size
 % You need three head measurements to fully do this
@@ -420,8 +413,8 @@ disp(unique(ROI.Name));
 %     'frontal_sup_medial_l'
 %     'frontal_sup_medial_r'
 %     'frontal_sup_r'
-BA-9_L                 
-BA-10_L  
+% BA-9_L                 
+% BA-10_L  
 nirs.util.depthmap('BA-9',probe1020);
 
 nirs.util.depthmap('BA-10_L',probe1020);
@@ -518,6 +511,25 @@ c = [eye(5);  % all 5 of the original variables
     0 1 -1 0 0; % G1 - G2 for X
     0 0 0 1 -1]; % G1 - G2 for Y
 
+% Hypotheses:
+% Ramp4 >Ramp3 > Ramp2 > Ramp1
+% Hard1 = Hard2 = Hard3 = Hard4
+% Easy1 = Easy2 = Easy3 = Easy4
+% Easy(i) < Hard(i) (easygame yields less activation for all combinations)
+% Then I expect some threshold to be present in ramp, which if above it,
+% easy will yield lower activation compared to hard
+% e.g., Ramp4, Ramp3 > Easy(i), Ramp2 = Easy(i), Ramp1 < Easy(i)
+% e.g., Ramp1, Ramp2, Ramp3 < Hard(i), Ramp4 >= Hard(i)
+
+% contasts
+c = { 'RampGame4-RampGame3', 'RampGame3-RampGame2', 'RampGame2-RampGame1'} 
+%'RampGame4-RampGame2', 
+
+c = { 'HardGame4-EasyGame4', 'HardGame4-EasyGame3','HardGame4-EasyGame2', 'HardGame4-EasyGame1',
+    'HardGame3-EasyGame4', 'HardGame3-EasyGame3','HardGame3-EasyGame2', 'HardGame3-EasyGame1', 
+    'HardGame2-EasyGame4', 'HardGame2-EasyGame3','HardGame2-EasyGame2', 'HardGame2-EasyGame1', 
+    'HardGame1-EasyGame4', 'HardGame1-EasyGame3','HardGame1-EasyGame2', 'HardGame1-EasyGame1'}
+
 % OR 
 % c ={'HardGame-EasyGame', 'HardGame-RampGame', 'RampGame-EasyGame'}
 c2 = { 'HardGame-RestingState', 'EasyGame-RestingState','RampGame-RestingState'}
@@ -532,10 +544,8 @@ c = {'RampGame2-RampGame1'}
 % Calculate stats with the ttest function
 ContrastStats = GroupStats.ttest(c);
 
-idx = find(ContrastStats.q < 0.05); 
-%SignificantContrastStats = ContrastStats.table; 
-SignificantContrastStats = ContrastStats.table(idx, :); 
-disp(SignificantContrastStats);
+ContrastStats.table
+
 
 idx = find(ContrastStats.q < 0.05); 
 SignificantContrastStats = ContrastStats.table; 
