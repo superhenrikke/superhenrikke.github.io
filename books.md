@@ -48,5 +48,9 @@
 - Darknet: A Beginner's Guide to Staying Anonymous Online by Lance Henderson
 - Twenty Thousand Leagues under the Sea by Jules Verne
 - Harry Potter and the Order of the Phoenix (Harry Potter og Føniksordenen) by J.K. Rowling. (Norwegian translation) 
+- Harry Potter and the Half-Blood Prince (Harry Potter og Halvblodsprinsen) by J.K. Rowling. (Norwegian translation) 
+- Harry Potter and the Deathly Hallows (Harry Potter og Dødstalismanene) by J.K. Rowling. (Norwegian translation) 
+- Eight Hundred Leagues on the Amazon by Jules Verne
+- The Master of the World by Jules Verne
 
 
