@@ -2,7 +2,7 @@
 
 ## PEER REVIEWED JOURNAL ARTICLES
 
-**Rørvik, S. B., Auflem, M., Dybvik, H., & Steinert, M. (2021).** Perception by palpation: Development and testing of a haptic ferrogranular jamming surface. Frontiers in Robotics and AI, 311.[https://doi.org/10.3389/frobt.2021.745234](https://doi.org/10.3389/frobt.2021.745234)
+**Rørvik, S. B., Auflem, M., Dybvik, H., & Steinert, M. (2021).** Perception by palpation: Development and testing of a haptic ferrogranular jamming surface. Frontiers in Robotics and AI, 311. [doi.org/10.3389/frobt.2021.745234](https://doi.org/10.3389/frobt.2021.745234)
 
 **Dybvik, H., & Steinert, M. (2021).** Real-World fNIRS Brain Activity Measurements during Ashtanga Vinyasa Yoga. [Brain Sciences](https://doi.org/10.3390/brainsci11060742), 11(6), 742.
 
@@ -13,7 +13,7 @@
 
 ## Conference papers
 
-**Dybvik, H., Abelson, F. G., Aalto, P., Goucher-Lambert, K., & Steinert, M. (2022).** Inspirational Stimuli Improve Idea Fluency during Ideation: A Replication and Extension Study with Eye-Tracking. Proceedings of the Design Society, 2, 861-870.[https://doi.org/10.1017/pds.2022.88](https://doi.org/10.1017/pds.2022.88)
+**Dybvik, H., Abelson, F. G., Aalto, P., Goucher-Lambert, K., & Steinert, M. (2022).** Inspirational Stimuli Improve Idea Fluency during Ideation: A Replication and Extension Study with Eye-Tracking. Proceedings of the Design Society, 2, 861-870. [doi.org/10.1017/pds.2022.88](https://doi.org/10.1017/pds.2022.88)
 
 **Dybvik, H., Kuster Erichsen, C., Steinert, M. (2021)** ‘Description of a Wearable Electroencephalography + Functional Near-Infrared Spectroscopy (EEG+FNIRS) for In-Situ Experiments on Design Cognition’, in Proceedings of the International Conference on Engineering Design (ICED21), Gothenburg, Sweden, 16-20 August 2021. [DOI:10.1017/pds.2021.94](https://DOI:10.1017/pds.2021.94)
 
