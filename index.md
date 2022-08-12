@@ -3,6 +3,7 @@
 ![logo](https://github.com/superhenrikke/superhenrikke.github.io/blob/f06cdccb64bfb3950322e55eb52402e52bedd347/photos/superhenrikke%20cleanup%20hvit%20bakgrunn.png)
 
 
+<img src="[drawing.jpg](https://github.com/superhenrikke/superhenrikke.github.io/blob/f06cdccb64bfb3950322e55eb52402e52bedd347/photos/superhenrikke%20cleanup%20hvit%20bakgrunn.png)" alt="logo" width="200"/>
 
 ![logo](photos/superhenrikke cleanup hvit bakgrunn.png)
 
