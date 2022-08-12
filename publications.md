@@ -13,6 +13,8 @@
 
 ## Conference papers
 
+**Bartnes, C., Ockernahl, A., Dybvik, H., & Steinert, M. (2022).** Promoting open research by adapting proprietary hardware to open-source software. DS 118: Proceedings of NordDesign 2022, Copenhagen, Denmark, 16th-18th August 2022, 1-10. [https://doi.org/10.35199/NORDDESIGN2022.22 ](https://doi.org/10.35199/NORDDESIGN2022.22)
+
 **Dybvik, H., Abelson, F. G., Aalto, P., Goucher-Lambert, K., & Steinert, M. (2022).** Inspirational Stimuli Improve Idea Fluency during Ideation: A Replication and Extension Study with Eye-Tracking. Proceedings of the Design Society, 2, 861-870. [doi.org/10.1017/pds.2022.88](https://doi.org/10.1017/pds.2022.88)
 
 **Dybvik, H., Kuster Erichsen, C., Steinert, M. (2021)** ‘Description of a Wearable Electroencephalography + Functional Near-Infrared Spectroscopy (EEG+FNIRS) for In-Situ Experiments on Design Cognition’, in Proceedings of the International Conference on Engineering Design (ICED21), Gothenburg, Sweden, 16-20 August 2021. [DOI:10.1017/pds.2021.94](https://DOI:10.1017/pds.2021.94)
