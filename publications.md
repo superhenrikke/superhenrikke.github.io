@@ -2,6 +2,8 @@
 
 ## PEER REVIEWED JOURNAL ARTICLES
 
+**Veitch, E., Dybvik, H., Steinert, M., & Alsos, O. A. (2022).** Collaborative Work with Highly Automated Marine Navigation Systems. Computer Supported Cooperative Work (CSCW), 1-32. [doi.org/10.1007/s10606-022-09450-7](https://doi.org/10.1007/s10606-022-09450-7)
+
 **Rørvik, S. B., Auflem, M., Dybvik, H., & Steinert, M. (2021).** Perception by palpation: Development and testing of a haptic ferrogranular jamming surface. Frontiers in Robotics and AI, 311. [doi.org/10.3389/frobt.2021.745234](https://doi.org/10.3389/frobt.2021.745234)
 
 **Dybvik, H., & Steinert, M. (2021).** Real-World fNIRS Brain Activity Measurements during Ashtanga Vinyasa Yoga. [Brain Sciences](https://doi.org/10.3390/brainsci11060742), 11(6), 742.
