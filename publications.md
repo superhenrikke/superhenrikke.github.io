@@ -15,6 +15,8 @@
 
 ## Conference papers
 
+**Dybvik, H., Abelson, F.G., Aalto, P., Goucher-Lambert, K., Steinert, M. (2023).** Inspirational Stimuli Attain Visual Allocation: Examining Design Ideation with Eye-Tracking. In: Gero, J.S. (eds) Design Computing and Cognition’22. DCC 2022. Springer, Cham. [https://doi.org/10.1007/978-3-031-20418-0_28](https://doi.org/10.1007/978-3-031-20418-0_28)
+
 **Bartnes, C., Ockernahl, A., Dybvik, H., & Steinert, M. (2022).** Promoting open research by adapting proprietary hardware to open-source software. DS 118: Proceedings of NordDesign 2022, Copenhagen, Denmark, 16th-18th August 2022, 1-10. [https://doi.org/10.35199/NORDDESIGN2022.22 ](https://doi.org/10.35199/NORDDESIGN2022.22)
 
 **Dybvik, H., Abelson, F. G., Aalto, P., Goucher-Lambert, K., & Steinert, M. (2022).** Inspirational Stimuli Improve Idea Fluency during Ideation: A Replication and Extension Study with Eye-Tracking. Proceedings of the Design Society, 2, 861-870. [doi.org/10.1017/pds.2022.88](https://doi.org/10.1017/pds.2022.88)
