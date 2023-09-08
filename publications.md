@@ -37,10 +37,11 @@
 
 **Dybvik, H., Wulvik, A., & Steinert, M. (2018).** Steering a ship-investigating affective state and workload in ship simulations. [In DS92: Proceedings of the DESIGN 2018 15th international design conference (pp. 2003-2014)](https://doi.org/10.21278/idc.2018.0459).
 
-## Master Thesis
+# PhD Thesis
+**Dybvik, H. (2023).** Introducing fNIRS to multimodal in-situ experiments in design research. [(PhD thesis, NTNU)](https://hdl.handle.net/11250/30732467).
+
+# Master Thesishttps://hdl.handle.net/11250/3073246
 **Dybvik, H. (2018).** An exploration of mixed methods, researching business model phenomena-Investigating the business model phenomena through literature, in-depth case study, statistical testing and user experiments [(Master's thesis, NTNU)](http://hdl.handle.net/11250/2573227).
-
-
 
 # Multimedia
 
