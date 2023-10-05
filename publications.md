@@ -15,6 +15,8 @@
 
 ## Conference papers
 
+**Brunner, L. M., Hillnhütter, H., Aalto, P., Steinert, M., & Dybvik, H. (2023)** Measuring the Impact of Walking Environments on Brain Activation: Results from an fNIRS Pilot Study. [REAL CORP 2023 Proceedings.](https://archive.corp.at/cdrom2023/papers2023/CORP2023_59.pdf)
+
 **Dybvik, H., Abelson, F.G., Aalto, P., Goucher-Lambert, K., Steinert, M. (2023).** Inspirational Stimuli Attain Visual Allocation: Examining Design Ideation with Eye-Tracking. In: Gero, J.S. (eds) Design Computing and Cognition’22. DCC 2022. Springer, Cham. [https://doi.org/10.1007/978-3-031-20418-0_28](https://doi.org/10.1007/978-3-031-20418-0_28)
 
 **Bartnes, C., Ockernahl, A., Dybvik, H., & Steinert, M. (2022).** Promoting open research by adapting proprietary hardware to open-source software. DS 118: Proceedings of NordDesign 2022, Copenhagen, Denmark, 16th-18th August 2022, 1-10. [https://doi.org/10.35199/NORDDESIGN2022.22 ](https://doi.org/10.35199/NORDDESIGN2022.22)
