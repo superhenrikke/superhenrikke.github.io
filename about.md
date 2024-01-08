@@ -17,9 +17,12 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 *Present:*
 
 2023 – 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Associate
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Electrical, Electronic and Mechanical Engineering
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty of Science and Engineering
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Bristol
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Electrical, Electronic and Mechanical Engineering
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty of Science and Engineering
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Bristol
 
 *Past:*
 
