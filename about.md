@@ -22,7 +22,7 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty of Science and Engineering
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Bristol
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Bristol hey test
 
 *Past:*
 
@@ -41,7 +41,6 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 ## EDUCATIONAL BACKGROUND
 
 2018 - 2023	Ph.D. Candidate
-
 		TrollLABS, Department of Mechanical and Industrial Engineering  
 		Faculty of Engineering  
 		Norwegian University of Science and Technology (NTNU)
