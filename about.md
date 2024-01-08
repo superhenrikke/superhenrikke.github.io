@@ -13,13 +13,16 @@ My research centers around engineering design and human-computer interaction (HC
 A pdf will appear soon. For now, have a look a my educational background and academic appointment:
 
 ## ACADEMIC AFFILIATIONS 
+
 *Present:*
+
 2023 – 		Research Associate
 		School of Electrical, Electronic and Mechanical Engineering
 		Faculty of Science and Engineering
 		University of Bristol
 
 *Past:*
+
 2018 – 2023	Ph.D. Candidate
 		Department of Mechanical and Industrial Engineering
 		Faculty of Engineering
@@ -33,25 +36,37 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 
 
 ## EDUCATIONAL BACKGROUND
+
 2018 - 2023	Ph.D. Candidate
+
 		TrollLABS, Department of Mechanical and Industrial Engineering
+  
 		Faculty of Engineering
+  
 		Norwegian University of Science and Technology (NTNU)
+  
 
 2018 – 2019	Graduate Course, ME310
+
 		Stanford University
 
-2013 – 2018	M.Sc. Mechanical Engineering, Specialization: New Product Development
+2013 – 2018	M.Sc. Mechanical Engineering
+
 		Norwegian University of Science and Technology (NTNU)
 
-2017		Graduate Level Program, 	Norwegian School of Entrepreneurship (“Gründerskolen”)
+2017		Graduate Level Program, Norwegian School of Entrepreneurship (“Gründerskolen”)
+
 		University of Oslo,
-		University of California, Berkeley.
+  
+		University of California, Berkeley
+  
 
 2016 – 2017	Erasmus Exchange Student, Design and Innovation
+
 		Danish Technical University (DTU)
 
 2012 – 2013	One-Year Program, Mathematical Sciences
+
 		Norwegian University of Science and Technology (NTNU)
 
 
