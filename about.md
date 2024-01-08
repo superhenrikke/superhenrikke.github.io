@@ -14,39 +14,27 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 
 ## ACADEMIC AFFILIATIONS 
 
-*Present:*
 
-2023 – 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Associate
+| *Present:*  | | 
+| ----------- | ----------- |
+| 2023 –      | Research Associate <br><br> School of Electrical, Electronic and Mechanical Engineering, Faculty of Science and Engineering, University of Bristol |
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Electrical, Electronic and Mechanical Engineering
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Faculty of Science and Engineering
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Bristol hey test
-
-*Past:*
-
-2018 – 2023	Ph.D. Candidate
-		Department of Mechanical and Industrial Engineering
-		Faculty of Engineering
-		Norwegian University of Science and Technology (NTNU)
-
-
-2022 Sep–Dec	Visiting Student Researcher
-		SCANCOR
-		Graduate School of Education
-		Stanford University
+| *Past:*     |  | 
+| ----------- | ----------- |
+| 2018 - 2023 |	Ph.D. Candidate <br><br> Department of Mechanical and Industrial Engineering, Faculty of Engineering, Norwegian University of Science and Technology (NTNU) |
+| 2022 Sep–Dec |  Visiting Student Researcher <br><br> SCANCOR, Graduate School of Education, Stanford University |
 
 
 ## EDUCATIONAL BACKGROUND
 
+| ----------- | ----------- |
 | 2018 - 2023 |	Ph.D. Candidate <br><br> TrollLABS, Department of Mechanical and Industrial Engineering, Faculty of Engineering, Norwegian University of Science and Technology (NTNU) |
 | 2018 – 2019 | Graduate Course, ME310 <br><br>	Stanford University | 
 | 2013 – 2018 | M.Sc. Mechanical Engineering <br><br> Norwegian University of Science and Technology (NTNU) |
 | 2017        | Graduate Level Program, Norwegian School of Entrepreneurship (“Gründerskolen”) <br><br>	University of Oslo & University of California, Berkeley |
 | 2016 – 2017 | Erasmus Exchange Student, Design and Innovation <br><br> Danish Technical University (DTU) |
 | 2012 – 2013 | One-Year Program, Mathematical Sciences <br><br> Norwegian University of Science and Technology (NTNU) |
-
+| ----------- | ----------- |
 
 
 
