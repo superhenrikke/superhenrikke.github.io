@@ -45,8 +45,7 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 | 2013 – 2018 | M.Sc. Mechanical Engineering <br><br> Norwegian University of Science and Technology (NTNU) |
 | 2017        | Graduate Level Program, Norwegian School of Entrepreneurship (“Gründerskolen”) <br><br>	University of Oslo & University of California, Berkeley |
 | 2016 – 2017 | Erasmus Exchange Student, Design and Innovation <br><br> Danish Technical University (DTU) |
-| 2012 – 2013 | One-Year Program, Mathematical Sciences
-		Norwegian University of Science and Technology (NTNU) |
+| 2012 – 2013 | One-Year Program, Mathematical Sciences <br><br> Norwegian University of Science and Technology (NTNU) |
 
 
 
