@@ -27,6 +27,7 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 
 ## EDUCATIONAL BACKGROUND
 
+| Year | Education |
 | ----------- | ----------- |
 | 2018 - 2023 |	Ph.D. Candidate <br><br> TrollLABS, Department of Mechanical and Industrial Engineering, Faculty of Engineering, Norwegian University of Science and Technology (NTNU) |
 | 2018 – 2019 | Graduate Course, ME310 <br><br>	Stanford University | 
@@ -34,7 +35,7 @@ A pdf will appear soon. For now, have a look a my educational background and aca
 | 2017        | Graduate Level Program, Norwegian School of Entrepreneurship (“Gründerskolen”) <br><br>	University of Oslo & University of California, Berkeley |
 | 2016 – 2017 | Erasmus Exchange Student, Design and Innovation <br><br> Danish Technical University (DTU) |
 | 2012 – 2013 | One-Year Program, Mathematical Sciences <br><br> Norwegian University of Science and Technology (NTNU) |
-| ----------- | ----------- |
+
 
 
 
