@@ -15,6 +15,12 @@
 
 ## Conference papers
 
+**Dybvik, H., McClenaghan, A., Bond, M.S.S., Svergja, A., Shealy, T., Snider, C., Aalto, P., Steinert, M. and Goudswaard, M., 2024. (2024).** Investigating differences in brain activity between physical and digital prototyping in open and constrained design tasks. [Proceedings of the Design Society, 4, 945-954.](https://doi.org/10.1017/pds.2024.97)
+
+**Eikevåg, S. W., Auernhammer, J., Elverum, C. W., Dybvik, H., & Steinert, M. (2024).** Human-centred engineering design: a cross-disciplinary product innovation practice. [Proceedings of the Design Society, 4, 255-264.](https://doi.org/10.1017/pds.2024.28)
+
+**Ormerod, I., Dybvik, H., Fraser, M., & Snider, C. (2024).** A proposed framework for data-driven human factors evaluation. [Proceedings of the Design Society, 4, 85-94.](https://doi.org/10.1017/pds.2024.11)
+
 **Brunner, L. M., Hillnhütter, H., Aalto, P., Steinert, M., & Dybvik, H. (2023)** Measuring the Impact of Walking Environments on Brain Activation: Results from an fNIRS Pilot Study. [REAL CORP 2023 Proceedings.](https://archive.corp.at/cdrom2023/papers2023/CORP2023_59.pdf)
 
 **Dybvik, H., Abelson, F.G., Aalto, P., Goucher-Lambert, K., Steinert, M. (2023).** Inspirational Stimuli Attain Visual Allocation: Examining Design Ideation with Eye-Tracking. In: Gero, J.S. (eds) Design Computing and Cognition’22. DCC 2022. Springer, Cham. [https://doi.org/10.1007/978-3-031-20418-0_28](https://doi.org/10.1007/978-3-031-20418-0_28)
